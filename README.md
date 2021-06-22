@@ -1,6 +1,6 @@
 # clone the project
 
-git clone https://github.com/IMT-happy/front-end-client.git
+git clone https://github.com/IMT-happy/frontendclient.git
 
 # install dependency
 
